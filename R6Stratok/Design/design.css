@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "anna";
+    src: url("anna.ttf");
+}
+
+.cim {
+    color:white;
+    font-size: 100px;
+    font-family: anna;
+}
+
+.ep {
+    color: white;
+    font-size: 40px;
+    font-family: anna;
+}
+
+.kep {
+    border-color: white;
+}
+
+.nevek {
+    color: white;
+    font-size: 40px;
+    font-family: anna;
+}
+
+.snevek {
+    color: white;
+    font-size: 40px;
+    font-family: anna;
+}
+
+.link{
+text-decoration: none;
+color: royalblue;
+font-size: 40px;
+}
+
+.helyezkedes {
+    color: rgb(182, 133, 9);
+}
+
+.index {
+    font-family: anna;
+    text-decoration: none;
+    color: rgb(148, 173, 255);
+    font-size: 70px;
+}
+
+.indexcim {
+    color:white;
+    font-family: anna;
+    font-size: 6vw;
+}
+
