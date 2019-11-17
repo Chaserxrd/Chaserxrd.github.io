@@ -20,6 +20,7 @@
 }
 
 .nevek {
+    text-decoration: none;
     color: white;
     font-size: 40px;
     font-family: anna;
@@ -53,4 +54,43 @@ font-size: 40px;
     font-family: anna;
     font-size: 6vw;
 }
-
+.strat935nev{
+    color: white;
+    font-family: anna;
+    font-size: 80px;
+}
+.operatorok{
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+}
+.vonal{
+    display: block;
+    margin-left: 55px;
+    margin-right: auto;
+    width: 450px;
+}
+.alapinfo{
+    margin-left: 80px;
+    color: white;
+    font-family: anna;
+    font-size: 35px;
+}
+.kepek{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: white;
+    border-block-end-width: 10px;
+}
+.br{
+    display: block;
+    content: "";
+    margin-top: 200px;
+}
+.szoveg{
+    text-align: center;
+    color: white;
+    font-family: anna;
+    font-size: 40px;
+}
